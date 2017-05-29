@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="solr-solrj-5.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-solrj-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solrj-lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solrj-lib/httpclient-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solrj-lib/httpcore-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solrj-lib/httpmime-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/slf4j-simple-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/org-apache-commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-analysis-extras-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-analytics-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-cell-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-clustering-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-core-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-dataimporthandler-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-dataimporthandler-extras-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-langid-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-map-reduce-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-morphlines-cell-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-morphlines-core-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-test-framework-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-uima-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Solr/solr-5.0.0/dist/solr-velocity-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../CommonJars/noggit-0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
